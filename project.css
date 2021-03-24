@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body:{
+    background-color: #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background: #e4f9f5;
+    margin:0 auto;
+    padding: 20px;
+    
+}
+header{
+
+}
+.img{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
+.header_bio {
+    float: left;
+    padding: 30px;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color:#11999e;
+}
+.heade_contrac{
+  
+    float:right;
+    padding: 30px;
+}
+.heade_contrac a{
+    text-decoration: none;
+    color:#11999e;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+.heade_contrac a:hover{
+    color:salmon;
+    text-decoration: underline;
+}
+.clear_div{
+    clear: both;
+}
+hr{
+    border:3px solid black;
+    margin: 20xp auto;
+    width: 100%;
+    border-bottom: none;
+
+}
+/*------personal info-----*/
+#personal-info{
+
+    
+}
+.personal_part{
+
+}
+
+
+.left_info{
+    width: 30%;
+    float: left;
+
+}
+.right_info{
+    width: 70%;
+    float: left;
+}
+.common_hr{
+    border:1px solid black;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 100%;
+}
+.education_info{
+    width:35%;
+    float: left;
+}
+.education_info_right{
+    width:35%;
+    float:right;
+}
+.bottom_container{
+    width: 100%;
+    margin: 20px auto;
+    background: black;
+    height: 50px;
+}
+.bottom_container{
+   
+    text-align: center;
+    
+}
+.bottom_container a{
+    color:wheat;
+    text-decoration: none;
+    padding: 10px;
+}
+p{
+    color: white;
+    text-align: center;
+}
